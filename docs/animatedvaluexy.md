@@ -131,7 +131,7 @@ Returns a string that serves as an identifier for the listener.
 
 | Name     | Type     | Required | Description                                                                                 |
 | -------- | -------- | -------- | ------------------------------------------------------------------------------------------- |
-| callback | function | Yes      | The callback function which will receive an object with a `value` key set to the new value. |
+| callback | function | Yes      | The callback function which will receive an object with `x` and `y` keys set to the new value. |
 
 ---
 
